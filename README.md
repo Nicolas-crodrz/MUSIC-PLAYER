@@ -1,6 +1,6 @@
 # 💀 MUSIC PLAYER 💀
 
-- He realizado un reproducto de musica.
+- He realizado un reproducto de musica. 
   
 ## 📒ÍNDICE
 
