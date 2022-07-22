@@ -1,6 +1,6 @@
 # 💀 MUSIC PLAYER 💀
 
-- He realizado un reproducto de musica. 
+- He realizado un reproducto de musica.  
   
 ## 📒ÍNDICE
 
@@ -79,7 +79,7 @@ La estructura de los archivos es la siguiente:
 │   │  
 │   └── 📁js
 │       └── script.js
-│ 
+│  
 └── README.md
 ```
 
